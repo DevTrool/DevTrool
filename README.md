@@ -1,6 +1,6 @@
 ### Bem Vindos 🌿🌿🌿
 prazer, Gabriel aqui !
-### Estudante tecnico de Desenvolvimento De Sistemas pelo Senac 📌
+### Programador e Triste nas horas vagas📌
 
 <div>
 <a href="https://github.com/DevTrool">
