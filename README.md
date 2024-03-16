@@ -1,6 +1,6 @@
 ### Bem Vindos 🌿🌿🌿
 prazer, Gabriel aqui !
-### Programador e Triste nas horas vagas📌
+### Estudante de Desenvolvimento Mobile
 
 <div>
 <a href="https://github.com/DevTrool">
